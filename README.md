@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 😸
 
 #### My study projects:
 [Version Control System](https://github.com/TransitiveClosure/VersionControlSystem)
