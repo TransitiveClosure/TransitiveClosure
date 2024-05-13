@@ -1,7 +1,7 @@
 ### Hi there! 😸
 
 #### My study projects:
-[Version Control System](https://github.com/TransitiveClosure/VersionControlSystem)
+[.NET StudyProjects](https://github.com/TransitiveClosure/StudyProjects)
 <!--
 **TransitiveClosure/TransitiveClosure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
