@@ -2,6 +2,9 @@
 
 #### My study projects:
 [.NET StudyProjects](https://github.com/TransitiveClosure/StudyProjects)
+
+#### DDD. Event sourcing
+[Task manager](https://github.com/TransitiveClosure/event-sourcing-task-manager)
 <!--
 **TransitiveClosure/TransitiveClosure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
