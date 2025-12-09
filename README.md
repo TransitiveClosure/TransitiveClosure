@@ -1,14 +1,14 @@
 ### Hi there! 😸
 
+### Mathematical modeling:
+* [Difference schemes and statistics](https://github.com/TransitiveClosure/ITMO_MathModelng_sem7)
+
 ### .Net projects:
 * [.NET StudyProjects](https://github.com/TransitiveClosure/StudyProjects)
 * [Dubbing Service](https://github.com/TransitiveClosure/VideoContentDubbingService/tree/develop/backend)
 
 ### DDD. Event sourcing:
 * [Task manager](https://github.com/TransitiveClosure/event-sourcing-task-manager)
-
-### Mathematical modeling:
-* [Difference schemes and statistics](https://github.com/TransitiveClosure/ITMO_MathModelng_sem7)
 
 ### Other projects:
 * [High load optimization](https://github.com/TransitiveClosure/high-load-course)
