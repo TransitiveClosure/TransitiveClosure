@@ -1,5 +1,10 @@
 ### Hi there! 😸
 
+### Data Science & ML
+
+* [ML labs collection](https://github.com/TransitiveClosure/ITMO_ML_labs_collection)
+* [Neurolab test task](https://github.com/TransitiveClosure/Neurollab-test-assignment)
+
 ### Mathematical modeling:
 * [Difference schemes and statistics](https://github.com/TransitiveClosure/ITMO_MathModelng_sem7)
 
